@@ -1,4 +1,4 @@
-Přílohy bakalářské práce Žanety Kovářové s názvem Radost zániku: básnické dílo Jiřího Karáska ze Lvovic z pohledu kvantitativní lingvistiky.
+Tento repozitář obsahuje přílohy bakalářské práce Žanety Kovářové s názvem Radost zániku: básnické dílo Jiřího Karáska ze Lvovic z pohledu kvantitativní lingvistiky.
 
 Excelovské soubory obsahují počty tokenů v jednotlivých Karáskových básních a sbírkách (Karasek-tokeny), hodnoty indexu MATTR pro jednotlivé básně (Karasek-MATTR) a klíčová slova jednotlivých sbírek (Karasek-KWords). 
 
